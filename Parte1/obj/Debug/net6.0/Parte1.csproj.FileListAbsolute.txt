@@ -1,0 +1,15 @@
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\Parte1.exe
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\Parte1.deps.json
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\Parte1.runtimeconfig.json
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\Parte1.dll
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\ref\Parte1.dll
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\bin\Debug\net6.0\Parte1.pdb
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.csproj.AssemblyReference.cache
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.AssemblyInfoInputs.cache
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.AssemblyInfo.cs
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.csproj.CoreCompileInputs.cache
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.dll
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\ref\Parte1.dll
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.pdb
+D:\Programacion\Trabajos\CSharp_taller1\Parte1\obj\Debug\net6.0\Parte1.genruntimeconfig.cache
