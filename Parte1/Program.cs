@@ -1,6 +1,6 @@
-﻿int program = 1;
+﻿int execute = 1;
 
-while (program == 1)
+while (execute == 1)
 {
     Console.WriteLine("***************************************************************");
     Console.WriteLine("Ejercicio 1");
@@ -27,7 +27,7 @@ while (program == 1)
     {
         //Salir
         case 0:
-            program = 0;
+            execute = 0;
             break;
 
         //Ejercicio 1
