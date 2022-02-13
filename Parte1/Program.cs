@@ -93,5 +93,78 @@ while (execute == 1)
 
             }
             break;
+
+        //Ejercicio 4
+        case 4:
+            Console.WriteLine("***************************************************************");
+            Console.WriteLine("ENUNCIADO:");
+            Console.WriteLine("Realizar un algoritmo que lea dos números e imprima la suma de los 2, en caso que el primero sea mayor al segundo");
+            Console.WriteLine();
+
+            Console.WriteLine("Por favor ingrese un número: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Por favor ingrese otro número");
+            int num2 = int.Parse(Console.ReadLine());
+
+            if(num1 > num2)
+            {
+                int suma = num1 + num2;
+                Console.WriteLine("La suma de los números es: " + suma);
+            }
+            else
+            {
+                Console.WriteLine("Los números ingresados son: " + num1 + " y " + num2 + ".");
+            }
+            break;
+
+        //Ejercicio 5
+        case 5:
+            Console.WriteLine("***************************************************************");
+            Console.WriteLine("ENUNCIADO:");
+            Console.WriteLine("En un almacén se hace un 20% de descuento a los clientes cuya compra sea superior a $100.000. ¿Cuánto deberá pagar cada cliente ?");
+            Console.WriteLine();
+
+            double descuento = 0.20;
+
+            Console.WriteLine("Cual es el valor de la compra?");
+            double valor = double.Parse(Console.ReadLine());
+
+            if (valor >= 100000)
+            {
+                double valorAPagar = valor - (valor * descuento);
+                Console.WriteLine("El valor a pagar con el descuento es de: " + valorAPagar);
+            }
+            else
+            {
+                Console.WriteLine("El valor a pagar es de: " + valor);
+            }
+
+            break;
+
+        //Ejercicio 6
+        case 6:
+            Console.WriteLine("***************************************************************");
+            Console.WriteLine("ENUNCIADO:");
+            Console.WriteLine("Calcular el salario de un empleado, teniendo en cuenta que si el salario bruto es superior a $2.000.000, debe hacerse una retención del 10 %.");
+            Console.WriteLine();
+
+            double descuentoSalario = 0.10;
+
+            Console.WriteLine("Por favor ingrese el salario del empleado: ");
+            double salario = double.Parse(Console.ReadLine());
+
+            if(salario >= 2000000)
+            {
+                double salarioConDescuento = salario - (salario * descuentoSalario);
+                Console.WriteLine("El salario con el descuento de retención es de: " + salarioConDescuento);
+            }
+            else
+            {
+                Console.WriteLine("El salario es de: " + salario);
+            }
+
+
+            break;
     }
 }
